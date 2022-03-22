@@ -2,9 +2,6 @@
 The contents of the repository allow for the simulation of Argon in it's solid, liquid or gaseous form.
 All the tools are present to build your own simulation or you can run a pre-existing one from the `simulations` subfolder.
 
-## Table of contents
-[[_TOC_]]
-
 ## Installation
 Installation of a module is not needed, place the `skeleton.py` file in the same folder as your working file and use
 
@@ -53,5 +50,7 @@ counts, bins = pair_correlation(Rt, bin_amnt=200, box_length)
 ## Contributors
 
 @sangersjeroen
-@agefrancke2
-@mwglorie
+@agefrancke2*
+@mwglorie*
+
+*On gitlab.kwant-project.org
