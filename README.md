@@ -1,6 +1,7 @@
 # Molecular dynamics simulation of Argon atoms
 The contents of the repository allow for the simulation of Argon in it's solid, liquid or gaseous form.
 All the tools are present to build your own simulation or you can run a pre-existing one from the `simulations` subfolder.
+Project for the TU Delft AP3081 Computational Physics course.
 
 ## Installation
 Installation of a module is not needed, place the `skeleton.py` file in the same folder as your working file and use
